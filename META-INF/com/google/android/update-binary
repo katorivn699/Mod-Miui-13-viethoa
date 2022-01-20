@@ -33,9 +33,9 @@ print_modname() {
   ui_print "$MODNAME "
   ui_print "$pounds"
   ui_print "**********************************************************************"
-  ui_print "Miui 12.5 Vietsub               "
+  ui_print "Miui 13 Vietsub               "
   ui_print "$MODDES        "    
-  ui_print "Telegram: @bhlnk     "
+  ui_print "Telegram: @     "
   ui_print "**********************************************************************"
 }
 
